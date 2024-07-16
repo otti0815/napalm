@@ -1,4 +1,4 @@
-setuptools>=38.4.0
+setuptools>=70.0.0
 cffi>=1.11.3
 paramiko>=2.6.0
 requests>=2.7.0
