@@ -7,3 +7,8 @@ jinja2==2.11.3
 MarkupSafe==2.0.1
 pytest==7.2.2
 ansible==4.10.0
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+cryptography>=42.0.8 # not directly required, pinned by Snyk to avoid a vulnerability
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
+pygments>=2.15.0 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.31.0 # not directly required, pinned by Snyk to avoid a vulnerability
