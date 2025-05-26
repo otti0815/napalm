@@ -6,3 +6,4 @@ jinja2==3.1.6
 MarkupSafe==3.0.2
 pytest==8.3.5
 ansible==11.3.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
