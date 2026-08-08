@@ -10,3 +10,4 @@ napalm-panos
 napalm-pluribus
 napalm-ros
 napalm-vyos
+loguru>=0.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
