@@ -10,3 +10,4 @@ napalm-panos
 napalm-pluribus
 napalm-ros
 napalm-vyos
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
